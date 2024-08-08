@@ -1,12 +1,16 @@
 ## Hi there 👋
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaiza612&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaiza612&layout=compact&theme=radical)
+
+## Portfolio
+
+[![Website](https://img.shields.io/badge/Website-portfolio-blue)](https://yaiza612.github.io/)
 
 <!--
 **yaiza612/yaiza612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaiza612&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
