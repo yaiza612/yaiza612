@@ -6,7 +6,7 @@
 
 ## Portfolio
 
-[![Portfolio(https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF5733?style=for-the-badge&logo=portfolio&logoColor=white)]](https://yaiza612.github.io/)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF5733?style=for-the-badge&logo=portfolio&logoColor=white)](https://yaiza612.github.io/)
 
 <!--
 **yaiza612/yaiza612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
