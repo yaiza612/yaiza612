@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Computational neuroscientist with a background in biology and biotechnology. I work on computational models of the brain, machine learning, and mathematical modelling of biological systems.
 ## Languages I write in
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
